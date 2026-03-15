@@ -21,3 +21,7 @@ python3 dedupe.py "/path/to/drive/"
 - Keeps the first occurrence in place
 - Moves all duplicates to `DUPLICATES_FOR_REVIEW/` on the same drive
 - Renames duplicates to show where the kept original lives
+
+## Credits
+- **[MatchaBear](https://github.com/MatchaBear)** — project owner
+- **[Claude](https://claude.ai) (Anthropic)** — developed via pair programming through Claude.ai web interface
